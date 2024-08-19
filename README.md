@@ -7,10 +7,10 @@ web developer
 i love to code !!
 
 * 🌍  I'm based in morocco/el jadida
-* 🖥️  See my portfolio at [MyPortfolio](http://------------)
+* 🖥️  See my portfolio at [MyPortfolio](https://hamzaf1.github.io/)
 * ✉️  You can contact me at [elfatehhamza@gmail.com](mailto:elfatehhamza@gmail.com)
-* 🚀  I'm currently working on [stock manager](http://------------)
-* 🧠  I'm learning python,mongodb,react.js
+* 🚀  I'm currently working on [banking app](https://github.com/Hamzaf1/banking.git)
+* 🧠  I'm learning python,mongodb,react.js,Next.js
 * 🤝  I'm open to collaborating on more intresting project
 
 ### Skills
